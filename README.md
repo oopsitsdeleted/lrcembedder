@@ -7,7 +7,7 @@ also this is like 80% chatgpt lol dont expect any support
 ```
 git clone https://github.com/oopsitsdeleted/lrcembedder.git lrcembedder
 cd lrcembedder
-pip requirements.txt
+python install -r requirements.txt
 ```
 
 
